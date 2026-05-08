@@ -74521,7 +74521,7 @@ return q})
 s($,"aD0","ahz",()=>new A.abE(new A.Vv(A.c([],A.a4("u<aDH>"))),A.c([],A.a4("u<aD_>"))))
 s($,"aBF","ae1",()=>new A.a97(A.q(t.N,t.GU)))
 r($,"aEK","ae9",()=>A.x(A.x(A.iw(),"window"),"navigator"))
-s($,"aFh","ahL",()=>A.c([A.af4(70,3,"3\xd73 grid | 30 seconds","easy","Easy",3,30),A.af4(90,5,"5\xd75 grid | 60 seconds","normal","Normal",5,60),A.af4(50,7,"7\xd77 grid | 90 seconds","hard","Hard",7,90)],A.a4("u<DT>")))
+s($,"aFh","ahL",()=>A.c([A.af4(70,4,"4\xd74 grid | 45 seconds","easy","Easy",4,45),A.af4(90,6,"6\xd76 grid | 80 seconds","normal","Normal",6,60),A.af4(50,8,"8\xd78 grid | 120 seconds","hard","Hard",8,90)],A.a4("u<DT>")))
 s($,"aBI","ahq",()=>{var q=null
 return A.b9(q,q,!0,"background",new A.Xd(),q,new A.Xe(),q)})
 s($,"aBO","ao4",()=>A.b9(new A.Xt(),A.bC(3,3,4.5,7),!1,"on_background",new A.Xu(),null,new A.Xv(),null))
